@@ -1,0 +1,7 @@
+# Speakr - sitio estatico en GitHub Pages.
+# Nota: los rastreadores solo leen robots.txt en la raiz del dominio (https://borjeta.github.io/robots.txt);
+# este fichero declara la intencion y el mapa del sitio. Envia tambien el sitemap en Google Search Console y Bing Webmaster Tools.
+User-agent: *
+Allow: /
+
+Sitemap: https://borjeta.github.io/appSpeakr/sitemap.xml

@@ -1,0 +1,31 @@
+# Speakr
+
+> Speakr is an iPhone app (iOS 26 or later) for practicing public speaking and job interviews. The user records themselves; the app analyzes the recording on the iPhone (filler words, pace, pauses, intonation, language confidence and approximate camera facing, which is face orientation and not eye tracking) and produces a report with a 0-100 score, 3 priorities and tips. A job interview simulator asks questions out loud and assesses answers with the STAR method. Works in Spanish and English, with no accounts and no ads. Speakr es una app para iPhone para practicar oratoria y entrevistas de trabajo.
+
+Key facts (verifiable on this site and in the App Store listing):
+- Name: Speakr. Publisher: Borja Alventosa Julià (individual). Contact: borjawebspubli@gmail.com
+- Platform: iPhone, iOS 26 or later. Languages of the app and of the practice: Spanish and English.
+- Privacy: recordings, transcripts and reports stay on the iPhone; transcription uses Apple's on-device speech recognition; content feedback uses Apple Intelligence on supported iPhones. No accounts, no ads, no analytics of its own. The only network communication of the app itself is with RevenueCat, to manage the optional subscription.
+- Price: free to download. Free plan: 3 presentation practices every 7 days and 1 mock interview. Speakr Pro (optional auto-renewing subscription): EUR 4.99 per month or EUR 34.99 per year (Spain), with a 7-day free trial on the annual plan for eligible new subscribers.
+- Limits: metrics are rough estimates and do not guarantee results; content feedback needs Apple Intelligence; iPhone only.
+- Download: coming soon to the App Store.
+
+## Home
+- [Speakr (Español)](https://borjeta.github.io/appSpeakr/): descripción, funciones, privacidad, precios y preguntas frecuentes.
+- [Speakr (English)](https://borjeta.github.io/appSpeakr/en.html): description, features, privacy, pricing and FAQ.
+
+## Guides
+- [Cómo reducir las muletillas al hablar](https://borjeta.github.io/appSpeakr/guia-muletillas.html)
+- [Método STAR para entrevistas de trabajo](https://borjeta.github.io/appSpeakr/guia-entrevista-star.html)
+- [Cómo elegir una app para practicar hablar en público](https://borjeta.github.io/appSpeakr/elegir-app-de-oratoria.html)
+- [How to cut filler words when you speak](https://borjeta.github.io/appSpeakr/guide-filler-words.html)
+- [The STAR method for job interviews](https://borjeta.github.io/appSpeakr/guide-star-interview.html)
+- [How to choose a public speaking practice app](https://borjeta.github.io/appSpeakr/choosing-a-speaking-app.html)
+
+## Support and legal
+- [Soporte / FAQ (ES)](https://borjeta.github.io/appSpeakr/soporte.html)
+- [Support / FAQ (EN)](https://borjeta.github.io/appSpeakr/support.html)
+- [Política de privacidad](https://borjeta.github.io/appSpeakr/privacidad.html)
+- [Privacy policy](https://borjeta.github.io/appSpeakr/privacy.html)
+- [Aviso legal](https://borjeta.github.io/appSpeakr/aviso-legal.html)
+- [Legal notice](https://borjeta.github.io/appSpeakr/legal-notice.html)
